@@ -178,31 +178,7 @@ This project showcases practical usage of:
 
 ---
 
-## Project Structure
 
-```text
-Walmart-Sales-Analysis/
-│
-├── data/
-│   └── walmart.csv
-│
-├── notebooks/
-│   └── data_cleaning.ipynb
-│
-├── sql_queries/
-│   └── walmart_analysis.sql
-│
-├── images/
-│   └── dashboard_screenshots
-│
-├── requirements.txt
-│
-├── main.py
-│
-└── README.md
-```
-
----
 
 ## Learning Outcomes
 
